@@ -24,6 +24,17 @@ Então, o desafio é bem simples. Queremos avaliar seus conhecimentos com API RE
  De preferência faço um 'Fork' nesse projeto e utilize o repositório para nos entregar o código, porém pode ser entregue em um arquivo compactado via e-mail.
  
  Se tiver alguma dúvida entre em contato com o gestor da vaga.
+
+ ### Como Rodar
+
+1. git clone https://github.com/vvibrich/challenge_back.git
+2. cd challenge-back
+3. (Windows) source venv/Scripts/Activate
+    3.1 (Linux and others) source venv/bin/activate
+4. python manage.py runserver
+5. Acesse seu http://localhost:8000/
+
+
  
  #BOA SORTE!
  
